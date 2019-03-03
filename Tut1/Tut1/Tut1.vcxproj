@@ -76,7 +76,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\dirva\Desktop\OpenGL\External Libs\GLFW\include;C:\Users\dirva\Desktop\OpenGL\External Libs\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\dirva\Desktop\OpenGL\External Libs\GLM;C:\Users\dirva\Desktop\OpenGL\External Libs\GLFW\include;C:\Users\dirva\Desktop\OpenGL\External Libs\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalLibraryDirectories>C:\Users\dirva\Desktop\OpenGL\External Libs\GLFW\lib-vc2015;C:\Users\dirva\Desktop\OpenGL\External Libs\GLEW\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
@@ -89,7 +89,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\dirva\Desktop\OpenGL\External Libs\GLFW\include;C:\Users\dirva\Desktop\OpenGL\External Libs\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\dirva\Desktop\OpenGL\External Libs\GLM;C:\Users\dirva\Desktop\OpenGL\External Libs\GLFW\include;C:\Users\dirva\Desktop\OpenGL\External Libs\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalLibraryDirectories>C:\Users\dirva\Desktop\OpenGL\External Libs\GLFW\lib-vc2015;C:\Users\dirva\Desktop\OpenGL\External Libs\GLEW\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
@@ -104,7 +104,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\dirva\Desktop\OpenGL\External Libs\GLFW\include;C:\Users\dirva\Desktop\OpenGL\External Libs\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\dirva\Desktop\OpenGL\External Libs\GLM;C:\Users\dirva\Desktop\OpenGL\External Libs\GLFW\include;C:\Users\dirva\Desktop\OpenGL\External Libs\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
@@ -121,7 +121,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\dirva\Desktop\OpenGL\External Libs\GLFW\include;C:\Users\dirva\Desktop\OpenGL\External Libs\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\dirva\Desktop\OpenGL\External Libs\GLM;C:\Users\dirva\Desktop\OpenGL\External Libs\GLFW\include;C:\Users\dirva\Desktop\OpenGL\External Libs\GLEW\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
